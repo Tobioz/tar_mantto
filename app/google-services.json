@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643439736403",
+    "firebase_url": "https://tar-mantenimiento.firebaseio.com",
+    "project_id": "tar-mantenimiento",
+    "storage_bucket": "tar-mantenimiento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643439736403:android:cd13e78f27d6fba85238a6",
+        "android_client_info": {
+          "package_name": "com.example.tarmantenimiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643439736403-sptrnd81l90qjpccn3cdkkla1f0ngg2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarmantenimiento",
+            "certificate_hash": "05c0c9f65972bcd7147b79464958e8101fa6cfb9"
+          }
+        },
+        {
+          "client_id": "643439736403-okafhdj8bspr3iov7p8ofu9mu3k14jbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxq1BZ6c0wPajEb6dKT5RHbVeNjzqvcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643439736403-okafhdj8bspr3iov7p8ofu9mu3k14jbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

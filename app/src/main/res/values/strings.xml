@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TAR MANTTO</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="msg_subscribed">msg_subscribed</string>
+    <string name="msg_subscribe_failed">msg_subscribe_failed</string>
+    <string name="ingops">INGOPS</string>
+    <string name="vers">VER 1.0</string>
+    <string name="rel">Release α</string>
+    <string name="mat">Seleccione la matricula:</string>
+    <string name="go">GO</string>
+
+
+
+    <string-array name="matriculas">
+        <item>XA-AFH</item>
+        <item>XA-BPL</item>
+        <item>XA-EFH</item>
+        <item>XA-IFP</item>
+        <item>XA-JFH</item>
+        <item>XA-MAF</item>
+        <item>XA-MFH</item>
+        <item>XA-NFP</item>
+        <item>XA-PFL</item>
+        <item>XA-RHF</item>
+        <item>XA-SFH</item>    </string-array>
+</resources>
